@@ -33,6 +33,6 @@ Fungus交流QQ群1104098806
 
 集成了unity官方本地化.
 
-集成了DOTween.
+集成了DOTween.(暂时使用DOTween, 未来计划删除)
 
 稳定了快速进入模式(Enter Play Mode Options).
